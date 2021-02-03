@@ -1,0 +1,50 @@
+header{
+    background-image: url(../../assets/images/r0_292_5484_3375_w1200_h678_fmax.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 83%;
+    background-attachment: fixed;
+}
+
+.our-logo{
+    text-align: center;
+}
+
+#logo{
+    height: 320px;
+    width: 400px;
+}
+
+.main-content-header{
+    position:absolute; 
+    top:63%; 
+    left:50%;
+    transform: translate(-50%,-50%); 
+    z-index:100;
+}
+
+h1{
+    font-family: "Cormorant Garamond";
+    font-size: 44px;
+    font-style: italic;
+}
+
+.nav{
+    background-color: #0e0d0d;
+}
+
+.nav-link{
+    color: rgb(7, 90, 245);
+    font-family:cursive;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 450;
+}
+
+.nav-link:hover{
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.nav-item{
+    margin-top: 35px;
+}
